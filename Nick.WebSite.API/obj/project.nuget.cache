@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8vXw7Kc13/2E8FkhPJX4xHLZriqB/SoU+newYwNZedzdnYt3YRv5+YFwifwWhi03o9+sizXG0QYTcSHK7NpAMg==",
+  "dgSpecHash": "eiAFOs6N98NO/fZgPKSlRl4KhPUzKUaLj3VQV6uiataK0ab5W3OtB31hJv6he/lWy377ojBaSzHom2e8bL5ciA==",
   "success": true,
-  "projectFilePath": "D:\\Nick.WebSite\\Nick.WebSite\\Nick.WebSite.API\\Nick.WebSite.API.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Nick\\Nick.WebSite.API\\Nick.WebSite.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nick.nguyen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
   "logs": []
 }
