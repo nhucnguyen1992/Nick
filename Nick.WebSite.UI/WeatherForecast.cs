@@ -1,6 +1,6 @@
 using System;
 
-namespace Nick.WebSite.API
+namespace Nick.WebSite.UI
 {
     public class WeatherForecast
     {

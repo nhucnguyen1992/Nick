@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Nick.WebSite.API.Controllers
+namespace Nick.WebSite.UI.Controllers
 {
     [ApiController]
     [Route("[controller]")]
