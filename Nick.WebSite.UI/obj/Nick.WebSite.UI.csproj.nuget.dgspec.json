@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Nick.WebSite.UI\\Nick.WebSite.UI\\Nick.WebSite.UI.csproj": {}
+    "D:\\Nick\\Nick.WebSite.UI\\Nick.WebSite.UI.csproj": {}
   },
   "projects": {
-    "D:\\Nick.WebSite.UI\\Nick.WebSite.UI\\Nick.WebSite.UI.csproj": {
+    "D:\\Nick\\Nick.WebSite.UI\\Nick.WebSite.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Nick.WebSite.UI\\Nick.WebSite.UI\\Nick.WebSite.UI.csproj",
+        "projectUniqueName": "D:\\Nick\\Nick.WebSite.UI\\Nick.WebSite.UI.csproj",
         "projectName": "Nick.WebSite.UI",
-        "projectPath": "D:\\Nick.WebSite.UI\\Nick.WebSite.UI\\Nick.WebSite.UI.csproj",
+        "projectPath": "D:\\Nick\\Nick.WebSite.UI\\Nick.WebSite.UI.csproj",
         "packagesPath": "C:\\Users\\nick.nguyen\\.nuget\\packages\\",
-        "outputPath": "D:\\Nick.WebSite.UI\\Nick.WebSite.UI\\obj\\",
+        "outputPath": "D:\\Nick\\Nick.WebSite.UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

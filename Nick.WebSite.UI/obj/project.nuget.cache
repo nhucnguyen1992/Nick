@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bs0ro3wedf5Q6sy2tVlHQexM6J+2WQOtnabr05x6QFzT3ZmWFA88lLhGubVoZfgkB6CtXs7LxBf9wR/fO6fTng==",
+  "dgSpecHash": "oSCFJ7OpJCbLOLp1oPJZ8XOhn3vYXfQId4GxhvUyYaAqU11NTEpH7J3AIgcOmBbfY3nkubS9fxvMwIzle6U2WQ==",
   "success": true,
-  "projectFilePath": "D:\\Nick.WebSite.UI\\Nick.WebSite.UI\\Nick.WebSite.UI.csproj",
+  "projectFilePath": "D:\\Nick\\Nick.WebSite.UI\\Nick.WebSite.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nick.nguyen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
   ],
